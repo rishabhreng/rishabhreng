@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rishabh
-- 👀 I’m interested in mathematics and a few programming languages: Java, C#, and Python.
-- 🌱 I’m currently a freshman (9th).
+- 👋 Hi, I’m Rishabh R.
+- 👀 I’m interested in mathematics and a few programming languages: Java, C#, and Python. I'm also on the programming part of my school's robotics team (FRC 6672, Fusion Corps) and we are world champions as of the 2022 FIRST Championship in Houston.
+- 🌱 I’m currently a sophomore (10th grade).
 - 📫 How to reach me ... Send an email to me @rishabhreng@gmail.com
 
 <!---
