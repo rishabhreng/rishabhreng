@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Rishabh R](https://rishabhreng.github.io/).
+- 👋 Hi, I’m Rishabh R.
 - I work on small passion projects and do computer vision research.
 - I was the software lead team on my high school's robotics team (FRC 6672, Fusion Corps).
 - 🌱 I’m currently a sophomore at Rice University studying Electrical and Computer Engineering and Computational and Applied Mathematics.
